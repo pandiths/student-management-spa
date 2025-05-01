@@ -10,3 +10,16 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Student Management SPA
+
+## 📋 Project Overview
+A responsive single-page React application for managing student data and simulating student-advisor chat interaction. The app works entirely in the browser without a backend.
+
+## 🚀 Setup Instructions
+
+```bash
+git clone https://github.com/YOUR_USERNAME/student-management-spa.git
+cd student-management-spa
+npm install
+npm run dev
